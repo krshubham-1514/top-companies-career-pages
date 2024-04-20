@@ -1,0 +1,23 @@
+{
+  "name": "career-pages",
+  "version": "1.0.0",
+  "description": "website to search career page",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krshubham-1514/career-pages.git"
+  },
+  "keywords": [
+    "career",
+    "jobs"
+  ],
+  "author": "Shubham Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krshubham-1514/career-pages/issues"
+  },
+  "homepage": "https://github.com/krshubham-1514/career-pages#readme"
+}

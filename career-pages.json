@@ -1,0 +1,716 @@
+[
+    {
+        "company_name": "3M",
+        "company_homepage_url": "https://www.3m.com/",
+        "career_page_url": "https://www.3m.com/3M/en_US/careers-us/",
+        "company-info": "3M Company is an American multinational conglomerate corporation operating in the fields of industry, worker safety, US health care, and consumer goods.",
+        "logo_url": "https://example.com/3m_logo.png"
+    },
+    {
+        "company_name": "Accenture",
+        "company_homepage_url": "https://www.accenture.com/",
+        "career_page_url": "https://www.accenture.com/us-en/careers",
+        "company-info": "Accenture is a multinational professional services company that provides services in strategy, consulting, digital, technology, and operations.",
+        "logo_url": "https://example.com/accenture_logo.png"
+    },
+    {
+        "company_name": "Adobe",
+        "company_homepage_url": "https://www.adobe.com/",
+        "career_page_url": "https://www.adobe.com/careers.html",
+        "company-info": "Adobe Inc. is an American multinational computer software company that focuses on the creation of multimedia and creativity software products.",
+        "logo_url": "https://example.com/adobe_logo.png"
+    },
+    {
+        "company_name": "Amdocs",
+        "company_homepage_url": "https://www.amdocs.com/",
+        "career_page_url": "https://jobs.amdocs.com/",
+        "company-info": "Amdocs is a multinational corporation that was founded in Israel and currently headquartered in Chesterfield, Missouri, with support and development centers located worldwide.",
+        "logo_url": "https://example.com/amdocs_logo.png"
+    },
+    {
+        "company_name": "Akamai Technologies",
+        "company_homepage_url": "https://www.akamai.com/",
+        "career_page_url": "https://www.akamai.com/us/en/about/careers.jsp",
+        "company-info": "Akamai Technologies, Inc. is an American content delivery network (CDN), cybersecurity, and cloud service company.",
+        "logo_url": "https://example.com/akamai_logo.png"
+    },
+    {
+        "company_name": "Alibaba Group",
+        "company_homepage_url": "https://www.alibabagroup.com/",
+        "career_page_url": "https://job.alibaba.com/zhaopin/index.htm",
+        "company-info": "Alibaba Group Holding Limited is a Chinese multinational conglomerate holding company specializing in e-commerce, retail, Internet, and technology.",
+        "logo_url": "https://example.com/alibaba_logo.png"
+    },
+    {
+        "company_name": "Alphabet Inc. (formerly Google)",
+        "company_homepage_url": "https://abc.xyz/",
+        "career_page_url": "https://careers.google.com/",
+        "company-info": "Alphabet Inc. is an American multinational conglomerate that was created through a corporate restructuring of Google on October 2, 2015.",
+        "logo_url": "https://example.com/alphabet_logo.png"
+    },
+    {
+        "company_name": "Amazon",
+        "company_homepage_url": "https://www.amazon.com/",
+        "career_page_url": "https://www.amazon.jobs/",
+        "company-info": "Amazon.com, Inc. is an American multinational technology company based in Seattle, Washington, which focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
+        "logo_url": "https://example.com/amazon_logo.png"
+    },
+    {
+        "company_name": "Apple",
+        "company_homepage_url": "https://www.apple.com/",
+        "career_page_url": "https://www.apple.com/jobs/",
+        "company-info": "Apple Inc. is an American multinational technology company that designs, develops, and sells consumer electronics, computer software, and online services.",
+        "logo_url": "https://example.com/apple_logo.png"
+    },
+    {
+        "company_name": "Atos",
+        "company_homepage_url": "https://atos.net/",
+        "career_page_url": "https://atos.net/en/careers",
+        "company-info": "Atos SE is a French multinational company-information technology service and consulting company headquartered in Bezons, France, and offices worldwide.",
+        "logo_url": "https://example.com/atos_logo.png"
+    },
+    {
+        "company_name": "Broadcom Inc.",
+        "company_homepage_url": "https://www.broadcom.com/",
+        "career_page_url": "https://www.broadcom.com/company/careers",
+        "company-info": "Broadcom Inc. is an American designer, developer, manufacturer and global supplier of a wide range of semiconductor and infrastructure software products.",
+        "logo_url": "https://example.com/broadcom_logo.png"
+    },
+    {
+        "company_name": "Cerner Corporation",
+        "company_homepage_url": "https://www.cerner.com/",
+        "career_page_url": "https://careers.cerner.com/",
+        "company-info": "Cerner Corporation is an American supplier of health company-information technology (HIT) services, devices, and hardware.",
+        "logo_url": "https://example.com/cerner_logo.png"
+    },
+    {
+        "company_name": "Cisco Systems",
+        "company_homepage_url": "https://www.cisco.com/",
+        "career_page_url": "https://jobs.cisco.com/",
+        "company-info": "Cisco Systems, Inc. is an American multinational technology conglomerate headquartered in San Jose, California.",
+        "logo_url": "https://example.com/cisco_logo.png"
+    },
+    {
+        "company_name": "Citrix Systems",
+        "company_homepage_url": "https://www.citrix.com/",
+        "career_page_url": "https://jobs.citrix.com/",
+        "company-info": "Citrix Systems, Inc. is an American multinational software company that provides server, application, and desktop virtualization, networking, software as a service (SaaS), and cloud computing technologies.",
+        "logo_url": "https://example.com/citrix_logo.png"
+    },
+    {
+        "company_name": "Cognizant",
+        "company_homepage_url": "https://www.cognizant.com/",
+        "career_page_url": "https://careers.cognizant.com/",
+        "company-info": "Cognizant is an American multinational technology company that provides business consulting, company-information technology, and outsourcing services.",
+        "logo_url": "https://example.com/cognizant_logo.png"
+    },
+    {
+        "company_name": "Dell Technologies",
+        "company_homepage_url": "https://www.delltechnologies.com/",
+        "career_page_url": "https://jobs.dell.com/",
+        "company-info": "Dell Technologies Inc. is an American multinational technology company headquartered in Round Rock, Texas.",
+        "logo_url": "https://example.com/dell_logo.png"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_homepage_url": "https://www.deloitte.com/",
+        "career_page_url": "https://jobs2.deloitte.com/",
+        "company-info": "Deloitte Touche Tohmatsu Limited, commonly referred to as Deloitte, is a multinational professional services network.",
+        "logo_url": "https://example.com/deloitte_logo.png"
+    },
+    {
+        "company_name": "Dropbox",
+        "company_homepage_url": "https://www.dropbox.com/",
+        "career_page_url": "https://www.dropbox.com/jobs",
+        "company-info": "Dropbox, Inc. is an American company that offers file hosting services.",
+        "logo_url": "https://example.com/dropbox_logo.png"
+    },
+    {
+        "company_name": "DXC Technology",
+        "company_homepage_url": "https://www.dxc.technology/",
+        "career_page_url": "https://www.dxc.technology/careers",
+        "company-info": "DXC Technology is an American multinational corporation that provides B2B IT services.",
+        "logo_url": "https://example.com/dxc_logo.png"
+    },
+    {
+        "company_name": "Elastic",
+        "company_homepage_url": "https://www.elastic.co/",
+        "career_page_url": "https://www.elastic.co/about/careers",
+        "company-info": "Elastic is a search company that builds self-managed and SaaS offerings for search, logging, security, and analytics use cases.",
+        "logo_url": "https://example.com/elastic_logo.png"
+    },
+    {
+        "company_name": "Electronic Arts (EA)",
+        "company_homepage_url": "https://www.ea.com/",
+        "career_page_url": "https://www.ea.com/careers",
+        "company-info": "Electronic Arts Inc. is an American video game company headquartered in Redwood City, California.",
+        "logo_url": "https://example.com/ea_logo.png"
+    },
+    {
+        "company_name": "Ericsson",
+        "company_homepage_url": "https://www.ericsson.com/",
+        "career_page_url": "https://www.ericsson.com/en/careers",
+        "company-info": "Ericsson is a Swedish multinational networking and telecommunications company headquartered in Stockholm.",
+        "logo_url": "https://example.com/ericsson_logo.png"
+    },
+    {
+        "company_name": "F5 Networks",
+        "company_homepage_url": "https://www.f5.com/",
+        "career_page_url": "https://www.f5.com/company/careers",
+        "company-info": "F5 Networks, Inc. is an American company that specializes in application delivery networking technology for the delivery of web applications and the security, performance, availability of servers, data storage devices, and other network and cloud resources.",
+        "logo_url": "https://example.com/f5_logo.png"
+    },
+    {
+        "company_name": "Fortinet",
+        "company_homepage_url": "https://www.fortinet.com/",
+        "career_page_url": "https://www.fortinet.com/corporate/careers",
+        "company-info": "Fortinet is an American multinational corporation headquartered in Sunnyvale, California.",
+        "logo_url": "https://example.com/fortinet_logo.png"
+    },
+    {
+        "company_name": "Fujitsu",
+        "company_homepage_url": "https://www.fujitsu.com/",
+        "career_page_url": "https://www.fujitsu.com/global/about/corporate/careers/",
+        "company-info": "Fujitsu Limited is a Japanese multinational company-information technology equipment and services company headquartered in Tokyo.",
+        "logo_url": "https://example.com/fujitsu_logo.png"
+    },
+    {
+        "company_name": "Gartner",
+        "company_homepage_url": "https://www.gartner.com/",
+        "career_page_url": "https://jobs.gartner.com/",
+        "company-info": "Gartner, Inc. is an American research and advisory company providing company-information, advice, and tools for leaders in IT, finance, HR, customer service and support, legal and compliance, marketing, sales, and supply chain functions.",
+        "logo_url": "https://example.com/gartner_logo.png"
+    },
+    {
+        "company_name": "GoDaddy",
+        "company_homepage_url": "https://www.godaddy.com/",
+        "career_page_url": "https://careers.godaddy.com/",
+        "company-info": "GoDaddy Inc. is an American publicly traded Internet domain registrar and web hosting company headquartered in Scottsdale, Arizona and incorporated in Delaware.",
+        "logo_url": "https://example.com/godaddy_logo.png"
+    },
+    {
+        "company_name": "Hewlett Packard Enterprise (HPE)",
+        "company_homepage_url": "https://www.hpe.com/",
+        "career_page_url": "https://careers.hpe.com/",
+        "company-info": "Hewlett Packard Enterprise Company is an American multinational enterprise company-information technology company.",
+        "logo_url": "https://example.com/hpe_logo.png"
+    },
+    {
+        "company_name": "Hitachi Vantara",
+        "company_homepage_url": "https://www.hitachivantara.com/",
+        "career_page_url": "https://careers.hitachi.com/",
+        "company-info": "Hitachi Vantara Corporation is an American company that provides hardware, software, and services to help companies manage their digital data.",
+        "logo_url": "https://example.com/hitachi_logo.png"
+    },
+    {
+        "company_name": "HP Inc.",
+        "company_homepage_url": "https://www.hp.com/",
+        "career_page_url": "https://jobs.hp.com/",
+        "company-info": "HP Inc. is an American multinational company-information technology company headquartered in Palo Alto, California.",
+        "logo_url": "https://example.com/hp_logo.png"
+    },
+    {
+        "company_name": "Huawei",
+        "company_homepage_url": "https://www.huawei.com/",
+        "career_page_url": "https://career.huawei.com/reccampportal.html?campus_apply=1",
+        "company-info": "Huawei Technologies Co., Ltd. is a Chinese multinational technology company headquartered in Shenzhen, Guangdong.",
+        "logo_url": "https://example.com/huawei_logo.png"
+    },
+    {
+        "company_name": "IBM",
+        "company_homepage_url": "https://www.ibm.com/",
+        "career_page_url": "https://www.ibm.com/employment/",
+        "company-info": "International Business Machines Corporation (IBM) is an American multinational technology company headquartered in Armonk, New York.",
+        "logo_url": "https://example.com/ibm_logo.png"
+    },
+    {
+        "company_name": "company-infosys",
+        "company_homepage_url": "https://www.company-infosys.com/",
+        "career_page_url": "https://www.company-infosys.com/careers/",
+        "company-info": "company-infosys Limited is an Indian multinational corporation that provides business consulting, company-information technology, and outsourcing services.",
+        "logo_url": "https://example.com/company-infosys_logo.png"
+    },
+    {
+        "company_name": "Intel Corporation",
+        "company_homepage_url": "https://www.intel.com/",
+        "career_page_url": "https://jobs.intel.com/",
+        "company-info": "Intel Corporation is an American multinational corporation and technology company headquartered in Santa Clara, California.",
+        "logo_url": "https://example.com/intel_logo.png"
+    },
+    {
+        "company_name": "Intuit",
+        "company_homepage_url": "https://www.intuit.com/",
+        "career_page_url": "https://careers.intuit.com/",
+        "company-info": "Intuit Inc. is an American financial software company that develops and sells financial, accounting, and tax preparation software and related services for small businesses, accountants, and individuals.",
+        "logo_url": "https://example.com/intuit_logo.png"
+    },
+    {
+        "company_name": "JPMorgan Chase & Co.",
+        "company_homepage_url": "https://www.jpmorganchase.com/",
+        "career_page_url": "https://careers.jpmorgan.com/us/en/home",
+        "company-info": "JPMorgan Chase & Co. is an American multinational investment bank and financial services holding company headquartered in New York City.",
+        "logo_url": "https://example.com/jpmorgan_logo.png"
+    },
+    {
+        "company_name": "Lenovo",
+        "company_homepage_url": "https://www.lenovo.com/",
+        "career_page_url": "https://jobs.lenovo.com/",
+        "company-info": "Lenovo Group Limited, often shortened to Lenovo, is a Chinese multinational technology company that designs, develops, manufactures, and sells personal computers, tablet computers, smartphones, workstations, servers, electronic storage devices, IT management software, and smart televisions.",
+        "logo_url": "https://example.com/lenovo_logo.png"
+    },
+    {
+        "company_name": "McAfee",
+        "company_homepage_url": "https://www.mcafee.com/",
+        "career_page_url": "https://careers.mcafee.com/",
+        "company-info": "McAfee, LLC is an American global computer security software company headquartered in Santa Clara, California.",
+        "logo_url": "https://example.com/mcafee_logo.png"
+    },
+    {
+        "company_name": "Microsoft",
+        "company_homepage_url": "https://www.microsoft.com/",
+        "career_page_url": "https://careers.microsoft.com/",
+        "company-info": "Microsoft Corporation is an American multinational technology company with headquarters in Redmond, Washington.",
+        "logo_url": "https://example.com/microsoft_logo.png"
+    },
+    {
+        "company_name": "Micron Technology",
+        "company_homepage_url": "https://www.micron.com/",
+        "career_page_url": "https://jobs.micron.com/",
+        "company-info": "Micron Technology, Inc. is an American producer of computer memory and computer data storage including dynamic random-access memory, flash memory, and USB flash drives.",
+        "logo_url": "https://example.com/micron_logo.png"
+    },
+    {
+        "company_name": "Mozilla Corporation",
+        "company_homepage_url": "https://www.mozilla.org/",
+        "career_page_url": "https://careers.mozilla.org/",
+        "company-info": "Mozilla Corporation is a wholly-owned subsidiary of the Mozilla Foundation that coordinates and integrates the development of Internet-related applications such as the Firefox web browser, by a global community of open-source developers, some of whom are employed by the corporation itself.",
+        "logo_url": "https://example.com/mozilla_logo.png"
+    },
+    {
+        "company_name": "NCR Corporation",
+        "company_homepage_url": "https://www.ncr.com/",
+        "career_page_url": "https://www.ncr.com/careers",
+        "company-info": "NCR Corporation is an American software and electronics company that makes self-service kiosks, point-of-sale terminals, automated teller machines, check processing systems, barcode scanners, and business consumables.",
+        "logo_url": "https://example.com/ncr_logo.png"
+    },
+    {
+        "company_name": "NetApp",
+        "company_homepage_url": "https://www.netapp.com/",
+        "career_page_url": "https://www.netapp.com/company/careers/",
+        "company-info": "NetApp, Inc. is an American hybrid cloud data services and data management company headquartered in Sunnyvale, California.",
+        "logo_url": "https://example.com/netapp_logo.png"
+    },
+    {
+        "company_name": "Netflix",
+        "company_homepage_url": "https://www.netflix.com/",
+        "career_page_url": "https://jobs.netflix.com/",
+        "company-info": "Netflix, Inc. is an American over-the-top content platform and production company headquartered in Los Gatos, California.",
+        "logo_url": "https://example.com/netflix_logo.png"
+    },
+    {
+        "company_name": "Nokia",
+        "company_homepage_url": "https://www.nokia.com/",
+        "career_page_url": "https://www.nokia.com/about-us/careers/",
+        "company-info": "Nokia Corporation is a Finnish multinational telecommunications, company-information technology, and consumer electronics company.",
+        "logo_url": "https://example.com/nokia_logo.png"
+    },
+    {
+        "company_name": "Nvidia",
+        "company_homepage_url": "https://www.nvidia.com/",
+        "career_page_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+        "company-info": "Nvidia Corporation is an American multinational technology company incorporated in Delaware and based in Santa Clara, California.",
+        "logo_url": "https://example.com/nvidia_logo.png"
+    },
+    {
+        "company_name": "Oracle Corporation",
+        "company_homepage_url": "https://www.oracle.com/",
+        "career_page_url": "https://www.oracle.com/corporate/careers/",
+        "company-info": "Oracle Corporation is an American multinational computer technology corporation headquartered in Austin, Texas.",
+        "logo_url": "https://example.com/oracle_logo.png"
+    },
+    {
+        "company_name": "PayPal",
+        "company_homepage_url": "https://www.paypal.com/",
+        "career_page_url": "https://www.paypal.com/us/webapps/mpp/jobs",
+        "company-info": "PayPal Holdings, Inc. is an American company operating an online payments system in majority of countries that supports online money transfers and serves as an electronic alternative to traditional paper methods like checks and money orders.",
+        "logo_url": "https://example.com/paypal_logo.png"
+    },
+    {
+        "company_name": "Qualcomm",
+        "company_homepage_url": "https://www.qualcomm.com/",
+        "career_page_url": "https://www.qualcomm.com/company/careers",
+        "company-info": "Qualcomm Incorporated is an American multinational corporation headquartered in San Diego, California, and incorporated in Delaware.",
+        "logo_url": "https://example.com/qualcomm_logo.png"
+    },
+    {
+        "company_name": "Salesforce",
+        "company_homepage_url": "https://www.salesforce.com/",
+        "career_page_url": "https://www.salesforce.com/company/careers/",
+        "company-info": "Salesforce.com, Inc. is an American cloud-based software company headquartered in San Francisco, California.",
+        "logo_url": "https://example.com/salesforce_logo.png"
+    },
+    {
+        "company_name": "SAP SE",
+        "company_homepage_url": "https://www.sap.com/",
+        "career_page_url": "https://www.sap.com/about/careers.html",
+        "company-info": "SAP SE is a German multinational software corporation that makes enterprise software to manage business operations and customer relations.",
+        "logo_url": "https://example.com/sap_logo.png"
+    },
+    {
+        "company_name": "SAS Institute",
+        "company_homepage_url": "https://www.sas.com/",
+        "career_page_url": "https://www.sas.com/en_us/careers.html",
+        "company-info": "SAS Institute is an American multinational developer of analytics software based in Cary, North Carolina.",
+        "logo_url": "https://example.com/sas_logo.png"
+    },
+    {
+        "company_name": "Sony",
+        "company_homepage_url": "https://www.sony.com/",
+        "career_page_url": "https://www.sony.com/en/Sonycompany-info/careers/",
+        "company-info": "Sony Corporation is a Japanese multinational conglomerate corporation headquartered in Kōnan, Minato, Tokyo.",
+        "logo_url": "https://example.com/sony_logo.png"
+    },
+    {
+        "company_name": "Splunk",
+        "company_homepage_url": "https://www.splunk.com/",
+        "career_page_url": "https://www.splunk.com/en_us/about/careers.html",
+        "company-info": "Splunk Inc. is an American public multinational corporation based in San Francisco, California, that produces software for searching, monitoring, and analyzing machine-generated data via a Web-style interface.",
+        "logo_url": "https://example.com/splunk_logo.png"
+    },
+    {
+        "company_name": "Tata Consultancy Services (TCS)",
+        "company_homepage_url": "https://www.tcs.com/",
+        "career_page_url": "https://www.tcs.com/careers",
+        "company-info": "Tata Consultancy Services Limited is an Indian multinational company-information technology services and consulting company headquartered in Mumbai, Maharashtra, India.",
+        "logo_url": "https://example.com/tcs_logo.png"
+    },
+    {
+        "company_name": "Tech Mahindra",
+        "company_homepage_url": "https://www.techmahindra.com/",
+        "career_page_url": "https://careers.techmahindra.com/",
+        "company-info": "Tech Mahindra Limited is an Indian multinational technology company, providing company-information technology (IT) and business process outsourcing (BPO) services.",
+        "logo_url": "https://example.com/tech_mahindra_logo.png"
+    },
+    {
+        "company_name": "Texas Instruments",
+        "company_homepage_url": "https://www.ti.com/",
+        "career_page_url": "https://careers.ti.com/",
+        "company-info": "Texas Instruments Incorporated (TI) is an American technology company that designs and manufactures semiconductors and various integrated circuits.",
+        "logo_url": "https://example.com/texas_instruments_logo.png"
+    },
+    {
+        "company_name": "Tencent",
+        "company_homepage_url": "https://www.tencent.com/en-us/",
+        "career_page_url": "https://careers.tencent.com/",
+        "company-info": "Tencent Holdings Ltd is a Chinese multinational conglomerate holding company founded in 1998, whose subsidiaries specialize in various Internet-related services and products, entertainment, artificial intelligence, and technology both in China and globally.",
+        "logo_url": "https://example.com/tencent_logo.png"
+    },
+    {
+        "company_name": "Uber",
+        "company_homepage_url": "https://www.uber.com/",
+        "career_page_url": "https://www.uber.com/global/en/careers/",
+        "company-info": "Uber Technologies, Inc. is an American technology company that offers services including ride-hailing, food delivery (Uber Eats), package delivery, couriers, freight transportation, and a partnership with Lime for electric bicycle and motorized scooter rental.",
+        "logo_url": "https://example.com/uber_logo.png"
+    },
+    {
+        "company_name": "VMware",
+        "company_homepage_url": "https://www.vmware.com/",
+        "career_page_url": "https://careers.vmware.com/",
+        "company-info": "VMware, Inc. is an American cloud computing and virtualization technology company headquartered in Palo Alto, California.",
+        "logo_url": "https://example.com/vmware_logo.png"
+    },
+    {
+        "company_name": "Wells Fargo",
+        "company_homepage_url": "https://www.wellsfargo.com/",
+        "career_page_url": "https://www.wellsfargojobs.com/",
+        "company-info": "Wells Fargo & Company is an American multinational financial services company with corporate headquarters in San Francisco, California, operational headquarters in Manhattan, and managerial offices throughout the United States and overseas.",
+        "logo_url": "https://example.com/wells_fargo_logo.png"
+    },
+    {
+        "company_name": "Wipro",
+        "company_homepage_url": "https://www.wipro.com/",
+        "career_page_url": "https://careers.wipro.com/",
+        "company-info": "Wipro Limited is an Indian multinational corporation that provides company-information technology, consulting, and business process services.",
+        "logo_url": "https://example.com/wipro_logo.png"
+    },
+    {
+        "company_name": "Workday",
+        "company_homepage_url": "https://www.workday.com/",
+        "career_page_url": "https://www.workday.com/en-us/company/careers.html",
+        "company-info": "Workday, Inc. is an American on‑demand (cloud-based) financial management and human capital management software vendor.",
+        "logo_url": "https://example.com/workday_logo.png"
+    },
+    {
+        "company_name": "Yahoo!",
+        "company_homepage_url": "https://www.yahoo.com/",
+        "career_page_url": "https://careers.yahoo.com/us/en/",
+        "company-info": "Yahoo! is an American web services provider headquartered in Sunnyvale, California, and owned by Verizon Media.",
+        "logo_url": "https://example.com/yahoo_logo.png"
+    },
+    {
+        "company_name": "Zoho Corporation",
+        "company_homepage_url": "https://www.zoho.com/",
+        "career_page_url": "https://www.zoho.com/careers.html",
+        "company-info": "Zoho Corporation is an Indian software development company. The organization focuses on web-based business tools and company-information technology solutions, including an online office suite, internet of things management platform, and a suite of IT management software.",
+        "logo_url": "https://example.com/zoho_logo.png"
+    },
+    {
+        "company_name": "Zomato",
+        "company_homepage_url": "https://www.zomato.com/",
+        "career_page_url": "https://www.zomato.com/careers",
+        "info": "Zomato is an Indian restaurant aggregator and food delivery startup founded by Deepinder Goyal and Pankaj Chaddah in 2008.",
+        "logo_url": "https://example.com/zomato_logo.png"
+    },
+    {
+        "company_name": "Swiggy",
+        "company_homepage_url": "https://www.swiggy.com/",
+        "career_page_url": "https://careers.swiggy.com/",
+        "info": "Swiggy is an Indian online food ordering and delivery platform founded by Sriharsha Majety, Nandan Reddy, and Rahul Jaimini in 2014.",
+        "logo_url": "https://example.com/swiggy_logo.png"
+    },
+    {
+        "company_name": "Flipkart",
+        "company_homepage_url": "https://www.flipkart.com/",
+        "career_page_url": "https://www.flipkartcareers.com/",
+        "info": "Flipkart is an Indian e-commerce company founded by Sachin Bansal and Binny Bansal in 2007.",
+        "logo_url": "https://example.com/flipkart_logo.png"
+    },
+    {
+        "company_name": "Paytm",
+        "company_homepage_url": "https://www.paytm.com/",
+        "career_page_url": "https://paytm.com/careers",
+        "info": "Paytm is an Indian digital payment and financial services company founded by Vijay Shekhar Sharma in 2010.",
+        "logo_url": "https://example.com/paytm_logo.png"
+    },
+    {
+        "company_name": "Ola",
+        "company_homepage_url": "https://www.olacabs.com/",
+        "career_page_url": "https://careers.olacabs.com/",
+        "info": "Ola is an Indian ridesharing company founded by Bhavish Aggarwal and Ankit Bhati in 2010.",
+        "logo_url": "https://example.com/ola_logo.png"
+    },
+    {
+        "company_name": "BYJU'S",
+        "company_homepage_url": "https://byjus.com/",
+        "career_page_url": "https://byjus.com/careers/",
+        "info": "BYJU'S is an Indian educational technology (edtech) company founded by Byju Raveendran in 2011.",
+        "logo_url": "https://example.com/byjus_logo.png"
+    },
+    {
+        "company_name": "Razorpay",
+        "company_homepage_url": "https://razorpay.com/",
+        "career_page_url": "https://razorpay.com/careers/",
+        "info": "Razorpay is an Indian payments company founded by Harshil Mathur and Shashank Kumar in 2014.",
+        "logo_url": "https://example.com/razorpay_logo.png"
+    },
+    {
+        "company_name": "CRED",
+        "company_homepage_url": "https://cred.club/",
+        "career_page_url": "https://jobs.lever.co/cred",
+        "info": "CRED is an Indian fintech startup founded by Kunal Shah in 2018.",
+        "logo_url": "https://example.com/cred_logo.png"
+    },
+    {
+        "company_name": "Unacademy",
+        "company_homepage_url": "https://unacademy.com/",
+        "career_page_url": "https://unacademy.com/careers",
+        "info": "Unacademy is an Indian online education technology company founded by Gaurav Munjal, Roman Saini, and Hemesh Singh in 2015.",
+        "logo_url": "https://example.com/unacademy_logo.png"
+    },
+    {
+        "company_name": "OYO Rooms",
+        "company_homepage_url": "https://www.oyorooms.com/",
+        "career_page_url": "https://www.oyorooms.com/careers/",
+        "info": "OYO Rooms, commonly known as OYO, is an Indian hospitality chain of leased and franchised hotels, homes and living spaces founded by Ritesh Agarwal in 2013.",
+        "logo_url": "https://example.com/oyo_logo.png"
+    },
+    {
+        "company_name": "Freshworks",
+        "company_homepage_url": "https://www.freshworks.com/",
+        "career_page_url": "https://www.freshworks.com/company/careers/",
+        "info": "Freshworks Inc. is a global software company providing innovative customer engagement software for businesses of all sizes, founded by Girish Mathrubootham and Shan Krishnasamy in 2010.",
+        "logo_url": "https://example.com/freshworks_logo.png"
+    },
+    {
+        "company_name": "Grofers",
+        "company_homepage_url": "https://grofers.com/",
+        "career_page_url": "https://careers.grofers.com/",
+        "info": "Grofers is an Indian online grocery delivery service founded by Albinder Dhindsa and Saurabh Kumar in 2013.",
+        "logo_url": "https://example.com/grofers_logo.png"
+    },
+    {
+        "company_name": "InMobi",
+        "company_homepage_url": "https://www.inmobi.com/",
+        "career_page_url": "https://www.inmobi.com/company/careers/",
+        "info": "InMobi is an Indian global provider of mobile advertising and marketing services founded by Naveen Tewari, Mohit Saxena, Amit Gupta, and Abhay Singhal in 2007.",
+        "logo_url": "https://example.com/inmobi_logo.png"
+    },
+    {
+        "company_name": "Dunzo",
+        "company_homepage_url": "https://www.dunzo.com/",
+        "career_page_url": "https://www.dunzo.com/careers",
+        "info": "Dunzo is an Indian company that provides delivery services founded by Kabeer Biswas, Ankur Aggarwal, Dalvir Suri, and Mukund Jha in 2014.",
+        "logo_url": "https://example.com/dunzo_logo.png"
+    },
+    {
+        "company_name": "Bounce (formerly Metro Bikes)",
+        "company_homepage_url": "https://bounceshare.com/",
+        "career_page_url": "https://bounceshare.com/careers/",
+        "info": "Bounce is an Indian bike-sharing startup founded by Vivekananda H.R., Varun Agni, and Anil G in 2014.",
+        "logo_url": "https://example.com/bounce_logo.png"
+    },
+    {
+        "company_name": "Rivigo",
+        "company_homepage_url": "https://www.rivigo.com/",
+        "career_page_url": "https://www.rivigo.com/careers/",
+        "info": "Rivigo is an Indian logistics company that provides services such as freight transportation and supply chain solutions founded by Deepak Garg and Gazal Kalra in 2014.",
+        "logo_url": "https://example.com/rivigo_logo.png"
+    },
+    {
+        "company_name": "Meesho",
+        "company_homepage_url": "https://meesho.com/",
+        "career_page_url": "https://meesho.com/careers/",
+        "info": "Meesho is an Indian social commerce platform founded by Vidit Aatrey and Sanjeev Barnwal in 2015.",
+        "logo_url": "https://example.com/meesho_logo.png"
+    },
+    {
+        "company_name": "RentoMojo",
+        "company_homepage_url": "https://www.rentomojo.com/",
+        "career_page_url": "https://www.rentomojo.com/careers",
+        "info": "RentoMojo is an Indian consumer leasing company founded by Geetansh Bamania and Ajay Nain in 2014.",
+        "logo_url": "https://example.com/rentomojo_logo.png"
+    },
+    {
+        "company_name": "CredAble",
+        "company_homepage_url": "https://www.credable.in/",
+        "career_page_url": "https://www.credable.in/careers",
+        "info": "CredAble is an Indian fintech company founded by Nirav Choksi and Ram Kewalramani in 2017.",
+        "logo_url": "https://example.com/credable_logo.png"
+    },
+    {
+        "company_name": "Khatabook",
+        "company_homepage_url": "https://www.khatabook.com/",
+        "career_page_url": "https://www.khatabook.com/careers",
+        "info": "Khatabook is an Indian digital ledger app founded by Ravish Naresh, Jaideep Poonia, Dhanesh Kumar, and Ashish Sonone in 2018.",
+        "logo_url": "https://example.com/khatabook_logo.png"
+    },
+    {
+        "company_name": "CureSkin",
+        "company_homepage_url": "https://cureskin.com/",
+        "career_page_url": "https://angel.co/company/cureskin/jobs",
+        "info": "CureSkin is an Indian healthcare startup founded by Ramakrishna R. and Sai Srinivas KRS in 2017.",
+        "logo_url": "https://example.com/cureskin_logo.png"
+    },
+    {
+        "company_name": "MilkBasket",
+        "company_homepage_url": "https://www.milkbasket.com/",
+        "career_page_url": "https://www.milkbasket.com/careers",
+        "info": "MilkBasket is an Indian online grocery delivery service founded by Anant Goel, Anurag Jain, Ashish Goel, and Yatish Talvadia in 2015.",
+        "logo_url": "https://example.com/milkbasket_logo.png"
+    },
+    {
+        "company_name": "Furlenco",
+        "company_homepage_url": "https://www.furlenco.com/",
+        "career_page_url": "https://www.furlenco.com/careers",
+        "info": "Furlenco is an Indian furniture rental company founded by Ajith Mohan Karimpana in 2012.",
+        "logo_url": "https://example.com/furlenco_logo.png"
+    },
+    {
+        "company_name": "Ezetap",
+        "company_homepage_url": "https://www.ezetap.com/",
+        "career_page_url": "https://www.ezetap.com/careers/",
+        "info": "Ezetap is an Indian financial technology company founded by Abhijit Bose, Bhaktha Keshavachar, and Sanjay Swamy in 2011.",
+        "logo_url": "https://example.com/ezetap_logo.png"
+    },
+    {
+        "company_name": "Udaan",
+        "company_homepage_url": "https://udaan.com/",
+        "career_page_url": "https://udaan.com/careers",
+        "info": "Udaan is an Indian B2B e-commerce company founded by Amod Malviya, Sujeet Kumar, and Vaibhav Gupta in 2016.",
+        "logo_url": "https://example.com/udaan_logo.png"
+    },
+    {
+        "company_name": "Toppr",
+        "company_homepage_url": "https://www.toppr.com/",
+        "career_page_url": "https://www.toppr.com/careers/",
+        "info": "Toppr is an Indian educational technology company founded by Zishaan Hayath and Hemanth Goteti in 2013.",
+        "logo_url": "https://example.com/toppr_logo.png"
+    },
+    {
+        "company_name": "Cleartax",
+        "company_homepage_url": "https://cleartax.in/",
+        "career_page_url": "https://cleartax.recruitee.com/",
+        "info": "ClearTax is an Indian fintech company founded by Archit Gupta, Srivatsan Chari, and Ankit Solanki in 2011.",
+        "logo_url": "https://example.com/cleartax_logo.png"
+    },
+    {
+        "company_name": "Shuttl",
+        "company_homepage_url": "https://www.shuttl.com/",
+        "career_page_url": "https://www.shuttl.com/careers",
+        "info": "Shuttl is an Indian bus aggregator and micro-mobility startup founded by Amit Singh and Deepanshu Malviya in 2015.",
+        "logo_url": "https://example.com/shuttl_logo.png"
+    },
+    {
+        "company_name": "Dream11",
+        "company_homepage_url": "https://www.dream11.com/",
+        "career_page_url": "https://careers.dream11.com/",
+        "info": "Dream11 is an Indian fantasy sports platform founded by Harsh Jain and Bhavit Sheth in 2008.",
+        "logo_url": "https://example.com/dream11_logo.png"
+    },
+    {
+        "company_name": "Urban Company (formerly UrbanClap)",
+        "company_homepage_url": "https://www.urbancompany.com/",
+        "career_page_url": "https://www.urbancompany.com/jobs",
+        "info": "Urban Company is an Indian home services marketplace founded by Abhiraj Bhal, Varun Khaitan, and Raghav Chandra in 2014.",
+        "logo_url": "https://example.com/urbancompany_logo.png"
+    },
+    {
+        "company_name": "Vedantu",
+        "company_homepage_url": "https://www.vedantu.com/",
+        "career_page_url": "https://www.vedantu.com/careers/",
+        "info": "Vedantu is an Indian interactive online tutoring platform founded by Vamsi Krishna, Saurabh Saxena, Pulkit Jain, and Anand Prakash in 2014.",
+        "logo_url": "https://example.com/vedantu_logo.png"
+    },
+    {
+        "company_name": "Licious",
+        "company_homepage_url": "https://www.licious.in/",
+        "career_page_url": "https://www.licious.in/careers",
+        "info": "Licious is an Indian meat and seafood company founded by Abhay Hanjura and Vivek Gupta in 2015.",
+        "logo_url": "https://example.com/licious_logo.png"
+    },
+    {
+        "company_name": "Ninjacart",
+        "company_homepage_url": "https://www.ninjacart.in/",
+        "career_page_url": "https://ninjacart.applytojob.com/",
+        "info": "Ninjacart is an Indian agri-tech startup founded by Thirukumaran Nagarajan, Kartheeswaran KK, Ashutosh Vikram, Sharath Loganathan, and Vasudevan Chinnathambi in 2015.",
+        "logo_url": "https://example.com/ninjacart_logo.png"
+    },
+    {
+        "company_name": "Meesho",
+        "company_homepage_url": "https://meesho.com/",
+        "career_page_url": "https://meesho.com/careers/",
+        "info": "Meesho is an Indian social commerce platform founded by Vidit Aatrey and Sanjeev Barnwal in 2015.",
+        "logo_url": "https://example.com/meesho_logo.png"
+    },
+    {
+        "company_name": "CarWale",
+        "company_homepage_url": "https://www.carwale.com/",
+        "career_page_url": "https://www.carwale.com/jobs/",
+        "info": "CarWale is an Indian automotive website founded by Mohit Dubey, Tufail Khan, and Arun Kumar in 2005.",
+        "logo_url": "https://example.com/carwale_logo.png"
+    },
+    {
+        "company_name": "Medlife",
+        "company_homepage_url": "https://www.medlife.com/",
+        "career_page_url": "https://careers.medlife.com/",
+        "info": "Medlife is an Indian online pharmacy founded by Prashant Singh and Tushar Kumar in 2014.",
+        "logo_url": "https://example.com/medlife_logo.png"
+    },
+    {
+        "company_name": "Zeta",
+        "company_homepage_url": "https://zeta.tech/",
+        "career_page_url": "https://zeta.tech/careers/",
+        "info": "Zeta is an Indian fintech startup founded by Bhavin Turakhia and Ramki Gaddipati in 2015.",
+        "logo_url": "https://example.com/zeta_logo.png"
+    }
+]

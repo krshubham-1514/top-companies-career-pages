@@ -1,0 +1,653 @@
+[
+    {
+        "company_name": "Zomato",
+        "company_homepage_url": "https://www.zomato.com/",
+        "career_page_url": "https://www.zomato.com/careers",
+        "info": "Zomato is an Indian restaurant aggregator and food delivery startup founded by Deepinder Goyal and Pankaj Chaddah in 2008.",
+        "logo_url": "https://example.com/zomato_logo.png"
+    },
+    {
+        "company_name": "Swiggy",
+        "company_homepage_url": "https://www.swiggy.com/",
+        "career_page_url": "https://careers.swiggy.com/",
+        "info": "Swiggy is an Indian online food ordering and delivery platform founded by Sriharsha Majety, Nandan Reddy, and Rahul Jaimini in 2014.",
+        "logo_url": "https://example.com/swiggy_logo.png"
+    },
+    {
+        "company_name": "Flipkart",
+        "company_homepage_url": "https://www.flipkart.com/",
+        "career_page_url": "https://www.flipkartcareers.com/",
+        "info": "Flipkart is an Indian e-commerce company founded by Sachin Bansal and Binny Bansal in 2007.",
+        "logo_url": "https://example.com/flipkart_logo.png"
+    },
+    {
+        "company_name": "Paytm",
+        "company_homepage_url": "https://www.paytm.com/",
+        "career_page_url": "https://paytm.com/careers",
+        "info": "Paytm is an Indian digital payment and financial services company founded by Vijay Shekhar Sharma in 2010.",
+        "logo_url": "https://example.com/paytm_logo.png"
+    },
+    {
+        "company_name": "Ola",
+        "company_homepage_url": "https://www.olacabs.com/",
+        "career_page_url": "https://careers.olacabs.com/",
+        "info": "Ola is an Indian ridesharing company founded by Bhavish Aggarwal and Ankit Bhati in 2010.",
+        "logo_url": "https://example.com/ola_logo.png"
+    },
+    {
+        "company_name": "BYJU'S",
+        "company_homepage_url": "https://byjus.com/",
+        "career_page_url": "https://byjus.com/careers/",
+        "info": "BYJU'S is an Indian educational technology (edtech) company founded by Byju Raveendran in 2011.",
+        "logo_url": "https://example.com/byjus_logo.png"
+    },
+    {
+        "company_name": "Razorpay",
+        "company_homepage_url": "https://razorpay.com/",
+        "career_page_url": "https://razorpay.com/careers/",
+        "info": "Razorpay is an Indian payments company founded by Harshil Mathur and Shashank Kumar in 2014.",
+        "logo_url": "https://example.com/razorpay_logo.png"
+    },
+    {
+        "company_name": "CRED",
+        "company_homepage_url": "https://cred.club/",
+        "career_page_url": "https://jobs.lever.co/cred",
+        "info": "CRED is an Indian fintech startup founded by Kunal Shah in 2018.",
+        "logo_url": "https://example.com/cred_logo.png"
+    },
+    {
+        "company_name": "Unacademy",
+        "company_homepage_url": "https://unacademy.com/",
+        "career_page_url": "https://unacademy.com/careers",
+        "info": "Unacademy is an Indian online education technology company founded by Gaurav Munjal, Roman Saini, and Hemesh Singh in 2015.",
+        "logo_url": "https://example.com/unacademy_logo.png"
+    },
+    {
+        "company_name": "OYO Rooms",
+        "company_homepage_url": "https://www.oyorooms.com/",
+        "career_page_url": "https://www.oyorooms.com/careers/",
+        "info": "OYO Rooms, commonly known as OYO, is an Indian hospitality chain of leased and franchised hotels, homes and living spaces founded by Ritesh Agarwal in 2013.",
+        "logo_url": "https://example.com/oyo_logo.png"
+    },
+    {
+        "company_name": "Freshworks",
+        "company_homepage_url": "https://www.freshworks.com/",
+        "career_page_url": "https://www.freshworks.com/company/careers/",
+        "info": "Freshworks Inc. is a global software company providing innovative customer engagement software for businesses of all sizes, founded by Girish Mathrubootham and Shan Krishnasamy in 2010.",
+        "logo_url": "https://example.com/freshworks_logo.png"
+    },
+    {
+        "company_name": "Grofers",
+        "company_homepage_url": "https://grofers.com/",
+        "career_page_url": "https://careers.grofers.com/",
+        "info": "Grofers is an Indian online grocery delivery service founded by Albinder Dhindsa and Saurabh Kumar in 2013.",
+        "logo_url": "https://example.com/grofers_logo.png"
+    },
+    {
+        "company_name": "InMobi",
+        "company_homepage_url": "https://www.inmobi.com/",
+        "career_page_url": "https://www.inmobi.com/company/careers/",
+        "info": "InMobi is an Indian global provider of mobile advertising and marketing services founded by Naveen Tewari, Mohit Saxena, Amit Gupta, and Abhay Singhal in 2007.",
+        "logo_url": "https://example.com/inmobi_logo.png"
+    },
+    {
+        "company_name": "Dunzo",
+        "company_homepage_url": "https://www.dunzo.com/",
+        "career_page_url": "https://www.dunzo.com/careers",
+        "info": "Dunzo is an Indian company that provides delivery services founded by Kabeer Biswas, Ankur Aggarwal, Dalvir Suri, and Mukund Jha in 2014.",
+        "logo_url": "https://example.com/dunzo_logo.png"
+    },
+    {
+        "company_name": "Bounce (formerly Metro Bikes)",
+        "company_homepage_url": "https://bounceshare.com/",
+        "career_page_url": "https://bounceshare.com/careers/",
+        "info": "Bounce is an Indian bike-sharing startup founded by Vivekananda H.R., Varun Agni, and Anil G in 2014.",
+        "logo_url": "https://example.com/bounce_logo.png"
+    },
+    {
+        "company_name": "Rivigo",
+        "company_homepage_url": "https://www.rivigo.com/",
+        "career_page_url": "https://www.rivigo.com/careers/",
+        "info": "Rivigo is an Indian logistics company that provides services such as freight transportation and supply chain solutions founded by Deepak Garg and Gazal Kalra in 2014.",
+        "logo_url": "https://example.com/rivigo_logo.png"
+    },
+    {
+        "company_name": "Meesho",
+        "company_homepage_url": "https://meesho.com/",
+        "career_page_url": "https://meesho.com/careers/",
+        "info": "Meesho is an Indian social commerce platform founded by Vidit Aatrey and Sanjeev Barnwal in 2015.",
+        "logo_url": "https://example.com/meesho_logo.png"
+    },
+    {
+        "company_name": "RentoMojo",
+        "company_homepage_url": "https://www.rentomojo.com/",
+        "career_page_url": "https://www.rentomojo.com/careers",
+        "info": "RentoMojo is an Indian consumer leasing company founded by Geetansh Bamania and Ajay Nain in 2014.",
+        "logo_url": "https://example.com/rentomojo_logo.png"
+    },
+    {
+        "company_name": "CredAble",
+        "company_homepage_url": "https://www.credable.in/",
+        "career_page_url": "https://www.credable.in/careers",
+        "info": "CredAble is an Indian fintech company founded by Nirav Choksi and Ram Kewalramani in 2017.",
+        "logo_url": "https://example.com/credable_logo.png"
+    },
+    {
+        "company_name": "Khatabook",
+        "company_homepage_url": "https://www.khatabook.com/",
+        "career_page_url": "https://www.khatabook.com/careers",
+        "info": "Khatabook is an Indian digital ledger app founded by Ravish Naresh, Jaideep Poonia, Dhanesh Kumar, and Ashish Sonone in 2018.",
+        "logo_url": "https://example.com/khatabook_logo.png"
+    },
+    {
+        "company_name": "CureSkin",
+        "company_homepage_url": "https://cureskin.com/",
+        "career_page_url": "https://angel.co/company/cureskin/jobs",
+        "info": "CureSkin is an Indian healthcare startup founded by Ramakrishna R. and Sai Srinivas KRS in 2017.",
+        "logo_url": "https://example.com/cureskin_logo.png"
+    },
+    {
+        "company_name": "MilkBasket",
+        "company_homepage_url": "https://www.milkbasket.com/",
+        "career_page_url": "https://www.milkbasket.com/careers",
+        "info": "MilkBasket is an Indian online grocery delivery service founded by Anant Goel, Anurag Jain, Ashish Goel, and Yatish Talvadia in 2015.",
+        "logo_url": "https://example.com/milkbasket_logo.png"
+    },
+    {
+        "company_name": "Furlenco",
+        "company_homepage_url": "https://www.furlenco.com/",
+        "career_page_url": "https://www.furlenco.com/careers",
+        "info": "Furlenco is an Indian furniture rental company founded by Ajith Mohan Karimpana in 2012.",
+        "logo_url": "https://example.com/furlenco_logo.png"
+    },
+    {
+        "company_name": "Ezetap",
+        "company_homepage_url": "https://www.ezetap.com/",
+        "career_page_url": "https://www.ezetap.com/careers/",
+        "info": "Ezetap is an Indian financial technology company founded by Abhijit Bose, Bhaktha Keshavachar, and Sanjay Swamy in 2011.",
+        "logo_url": "https://example.com/ezetap_logo.png"
+    },
+    {
+        "company_name": "Udaan",
+        "company_homepage_url": "https://udaan.com/",
+        "career_page_url": "https://udaan.com/careers",
+        "info": "Udaan is an Indian B2B e-commerce company founded by Amod Malviya, Sujeet Kumar, and Vaibhav Gupta in 2016.",
+        "logo_url": "https://example.com/udaan_logo.png"
+    },
+    {
+        "company_name": "Toppr",
+        "company_homepage_url": "https://www.toppr.com/",
+        "career_page_url": "https://www.toppr.com/careers/",
+        "info": "Toppr is an Indian educational technology company founded by Zishaan Hayath and Hemanth Goteti in 2013.",
+        "logo_url": "https://example.com/toppr_logo.png"
+    },
+    {
+        "company_name": "Cleartax",
+        "company_homepage_url": "https://cleartax.in/",
+        "career_page_url": "https://cleartax.recruitee.com/",
+        "info": "ClearTax is an Indian fintech company founded by Archit Gupta, Srivatsan Chari, and Ankit Solanki in 2011.",
+        "logo_url": "https://example.com/cleartax_logo.png"
+    },
+    {
+        "company_name": "Shuttl",
+        "company_homepage_url": "https://www.shuttl.com/",
+        "career_page_url": "https://www.shuttl.com/careers",
+        "info": "Shuttl is an Indian bus aggregator and micro-mobility startup founded by Amit Singh and Deepanshu Malviya in 2015.",
+        "logo_url": "https://example.com/shuttl_logo.png"
+    },
+    {
+        "company_name": "Dream11",
+        "company_homepage_url": "https://www.dream11.com/",
+        "career_page_url": "https://careers.dream11.com/",
+        "info": "Dream11 is an Indian fantasy sports platform founded by Harsh Jain and Bhavit Sheth in 2008.",
+        "logo_url": "https://example.com/dream11_logo.png"
+    },
+    {
+        "company_name": "Urban Company (formerly UrbanClap)",
+        "company_homepage_url": "https://www.urbancompany.com/",
+        "career_page_url": "https://www.urbancompany.com/jobs",
+        "info": "Urban Company is an Indian home services marketplace founded by Abhiraj Bhal, Varun Khaitan, and Raghav Chandra in 2014.",
+        "logo_url": "https://example.com/urbancompany_logo.png"
+    },
+    {
+        "company_name": "Vedantu",
+        "company_homepage_url": "https://www.vedantu.com/",
+        "career_page_url": "https://www.vedantu.com/careers/",
+        "info": "Vedantu is an Indian interactive online tutoring platform founded by Vamsi Krishna, Saurabh Saxena, Pulkit Jain, and Anand Prakash in 2014.",
+        "logo_url": "https://example.com/vedantu_logo.png"
+    },
+    {
+        "company_name": "Licious",
+        "company_homepage_url": "https://www.licious.in/",
+        "career_page_url": "https://www.licious.in/careers",
+        "info": "Licious is an Indian meat and seafood company founded by Abhay Hanjura and Vivek Gupta in 2015.",
+        "logo_url": "https://example.com/licious_logo.png"
+    },
+    {
+        "company_name": "Ninjacart",
+        "company_homepage_url": "https://www.ninjacart.in/",
+        "career_page_url": "https://ninjacart.applytojob.com/",
+        "info": "Ninjacart is an Indian agri-tech startup founded by Thirukumaran Nagarajan, Kartheeswaran KK, Ashutosh Vikram, Sharath Loganathan, and Vasudevan Chinnathambi in 2015.",
+        "logo_url": "https://example.com/ninjacart_logo.png"
+    },
+    {
+        "company_name": "Meesho",
+        "company_homepage_url": "https://meesho.com/",
+        "career_page_url": "https://meesho.com/careers/",
+        "info": "Meesho is an Indian social commerce platform founded by Vidit Aatrey and Sanjeev Barnwal in 2015.",
+        "logo_url": "https://example.com/meesho_logo.png"
+    },
+    {
+        "company_name": "CarWale",
+        "company_homepage_url": "https://www.carwale.com/",
+        "career_page_url": "https://www.carwale.com/jobs/",
+        "info": "CarWale is an Indian automotive website founded by Mohit Dubey, Tufail Khan, and Arun Kumar in 2005.",
+        "logo_url": "https://example.com/carwale_logo.png"
+    },
+    {
+        "company_name": "Medlife",
+        "company_homepage_url": "https://www.medlife.com/",
+        "career_page_url": "https://careers.medlife.com/",
+        "info": "Medlife is an Indian online pharmacy founded by Prashant Singh and Tushar Kumar in 2014.",
+        "logo_url": "https://example.com/medlife_logo.png"
+    },
+    {
+        "company_name": "Zeta",
+        "company_homepage_url": "https://zeta.tech/",
+        "career_page_url": "https://zeta.tech/careers/",
+        "info": "Zeta is an Indian fintech startup founded by Bhavin Turakhia and Ramki Gaddipati in 2015.",
+        "logo_url": "https://example.com/zeta_logo.png"
+    },
+    {
+        "company_name": "NoBroker",
+        "company_homepage_url": "https://www.nobroker.in/",
+        "career_page_url": "https://nobroker.in/careers/",
+        "info": "NoBroker is an Indian real estate search portal founded by Amit Agarwal, Akhil Gupta, and Saurabh Garg in 2013.",
+        "logo_url": "https://example.com/nobroker_logo.png"
+    },
+    {
+        "company_name": "Vokal",
+        "company_homepage_url": "https://www.getvokal.com/",
+        "career_page_url": "https://www.getvokal.com/careers",
+        "info": "Vokal is an Indian knowledge-sharing platform founded by Aprameya Radhakrishna and Mayank Bidawatka in 2018.",
+        "logo_url": "https://example.com/vokal_logo.png"
+    },
+    {
+        "company_name": "Zenoti",
+        "company_homepage_url": "https://www.zenoti.com/",
+        "career_page_url": "https://www.zenoti.com/company/careers",
+        "info": "Zenoti is an Indian software company providing cloud-based services for the beauty and wellness industry founded by Sudheer Koneru in 2010.",
+        "logo_url": "https://example.com/zenoti_logo.png"
+    },
+    {
+        "company_name": "Urban Ladder",
+        "company_homepage_url": "https://www.urbanladder.com/",
+        "career_page_url": "https://www.urbanladder.com/careers",
+        "info": "Urban Ladder is an Indian online furniture and home decor company founded by Ashish Goel and Rajiv Srivatsa in 2012.",
+        "logo_url": "https://example.com/urbanladder_logo.png"
+    },
+    {
+        "company_name": "PharmEasy",
+        "company_homepage_url": "https://pharmeasy.in/",
+        "career_page_url": "https://pharmeasy.in/careers",
+        "info": "PharmEasy is an Indian online pharmacy and healthcare platform founded by Dharmil Sheth, Dhaval Shah, Mikhil Innani, and Hardik Dedhia in 2015.",
+        "logo_url": "https://example.com/pharmeasy_logo.png"
+    },
+    {
+        "company_name": "Dailyhunt",
+        "company_homepage_url": "https://www.dailyhunt.in/",
+        "career_page_url": "https://www.dailyhunt.in/careers",
+        "info": "Dailyhunt is an Indian news and local language content application founded by Virendra Gupta in 2009.",
+        "logo_url": "https://example.com/dailyhunt_logo.png"
+    },
+    {
+        "company_name": "CarDekho",
+        "company_homepage_url": "https://www.cardekho.com/",
+        "career_page_url": "https://www.cardekho.com/careers",
+        "info": "CarDekho is an Indian auto classifieds company founded by Amit Jain and Anurag Jain in 2008.",
+        "logo_url": "https://example.com/cardekho_logo.png"
+    },
+    {
+        "company_name": "CureFit",
+        "company_homepage_url": "https://www.cure.fit/",
+        "career_page_url": "https://careers.cure.fit/",
+        "info": "CureFit is an Indian health and fitness company founded by Mukesh Bansal and Ankit Nagori in 2016.",
+        "logo_url": "https://example.com/curefit_logo.png"
+    },
+    {
+        "company_name": "Rapido",
+        "company_homepage_url": "https://rapido.bike/",
+        "career_page_url": "https://rapido.bike/careers",
+        "info": "Rapido is an Indian bike taxi aggregator founded by Aravind Sanka, Pavan Guntupalli, and Rishikesh S R in 2015.",
+        "logo_url": "https://example.com/rapido_logo.png"
+    },
+    {
+        "company_name": "UpGrad",
+        "company_homepage_url": "https://www.upgrad.com/",
+        "career_page_url": "https://www.upgrad.com/careers/",
+        "info": "UpGrad is an Indian online higher education platform founded by Ronnie Screwvala, Mayank Kumar, Phalgun Kompalli, and Ravijot Chugh in 2015.",
+        "logo_url": "https://example.com/upgrad_logo.png"
+    },
+    {
+        "company_name": "GreyOrange",
+        "company_homepage_url": "https://www.greyorange.com/",
+        "career_page_url": "https://www.greyorange.com/careers/",
+        "info": "GreyOrange is an Indian multinational robotics company that designs, manufactures, and deploys advanced robotics systems for automation in warehouses, distribution and fulfillment centers, and supply chain.",
+        "logo_url": "https://example.com/greyorange_logo.png"
+    },
+    {
+        "company_name": "Innov8",
+        "company_homepage_url": "https://innov8.work/",
+        "career_page_url": "https://innov8.work/careers/",
+        "info": "Innov8 is an Indian coworking space provider founded by Ritesh Malik in 2015.",
+        "logo_url": "https://example.com/innov8_logo.png"
+    },
+    {
+        "company_name": "Vogo",
+        "company_homepage_url": "https://www.vogo.in/",
+        "career_page_url": "https://www.vogo.in/careers",
+        "info": "Vogo is an Indian scooter sharing platform founded by Anand Ayyadurai, Padmanabhan Balakrishnan, and Sanchit Mittal in 2015.",
+        "logo_url": "https://example.com/vogo_logo.png"
+    },
+    {
+        "company_name": "Lendingkart",
+        "company_homepage_url": "https://www.lendingkart.com/",
+        "career_page_url": "https://www.lendingkart.com/careers",
+        "info": "Lendingkart is an Indian fintech startup that offers working capital loans to small and medium enterprises (SMEs) founded by Harshvardhan Lunia and Mukul Sachan in 2014.",
+        "logo_url": "https://example.com/lendingkart_logo.png"
+    },
+    {
+        "company_name": "Teachmint",
+        "company_homepage_url": "https://www.teachmint.com/",
+        "career_page_url": "https://www.teachmint.com/careers",
+        "info": "Teachmint is an Indian edtech startup providing online teaching platforms for educators founded by Anshuman Kumar, Mihir Gupta, Payoj Jain, and Vibhu Bhushan in 2020.",
+        "logo_url": "https://example.com/teachmint_logo.png"
+    },
+    {
+        "company_name": "Dunzo",
+        "company_homepage_url": "https://www.dunzo.com/",
+        "career_page_url": "https://www.dunzo.com/careers",
+        "info": "Dunzo is an Indian company that provides delivery services founded by Kabeer Biswas, Ankur Aggarwal, Dalvir Suri, and Mukund Jha in 2014.",
+        "logo_url": "https://example.com/dunzo_logo.png"
+    },
+    {
+        "company_name": "Lendingkart",
+        "company_homepage_url": "https://www.lendingkart.com/",
+        "career_page_url": "https://www.lendingkart.com/careers",
+        "info": "Lendingkart is an Indian fintech startup that offers working capital loans to small and medium enterprises (SMEs) founded by Harshvardhan Lunia and Mukul Sachan in 2014.",
+        "logo_url": "https://example.com/lendingkart_logo.png"
+    },
+    {
+        "company_name": "Nykaa",
+        "company_homepage_url": "https://www.nykaa.com/",
+        "career_page_url": "https://www.nykaa.com/careers",
+        "info": "Nykaa is an Indian e-commerce company founded by Falguni Nayar in 2012, selling beauty, wellness, and fashion products.",
+        "logo_url": "https://example.com/nykaa_logo.png"
+    },
+    {
+        "company_name": "BYJU'S",
+        "company_homepage_url": "https://byjus.com/",
+        "career_page_url": "https://byjus.com/careers/",
+        "info": "BYJU'S is an Indian educational technology (edtech) company founded by Byju Raveendran in 2011.",
+        "logo_url": "https://example.com/byjus_logo.png"
+    },
+    {
+        "company_name": "OYO Rooms",
+        "company_homepage_url": "https://www.oyorooms.com/",
+        "career_page_url": "https://www.oyorooms.com/careers/",
+        "info": "OYO Rooms, commonly known as OYO, is an Indian hospitality chain of leased and franchised hotels, homes and living spaces founded by Ritesh Agarwal in 2013.",
+        "logo_url": "https://example.com/oyo_logo.png"
+    },
+    {
+        "company_name": "Grofers",
+        "company_homepage_url": "https://grofers.com/",
+        "career_page_url": "https://careers.grofers.com/",
+        "info": "Grofers is an Indian online grocery delivery service founded by Albinder Dhindsa and Saurabh Kumar in 2013.",
+        "logo_url": "https://example.com/grofers_logo.png"
+    },
+    {
+        "company_name": "InMobi",
+        "company_homepage_url": "https://www.inmobi.com/",
+        "career_page_url": "https://www.inmobi.com/company/careers/",
+        "info": "InMobi is an Indian global provider of mobile advertising and marketing services founded by Naveen Tewari, Mohit Saxena, Amit Gupta, and Abhay Singhal in 2007.",
+        "logo_url": "https://example.com/inmobi_logo.png"
+    },
+    {
+        "company_name": "Khatabook",
+        "company_homepage_url": "https://www.khatabook.com/",
+        "career_page_url": "https://www.khatabook.com/careers",
+        "info": "Khatabook is an Indian digital ledger app founded by Ravish Naresh, Jaideep Poonia, Dhanesh Kumar, and Ashish Sonone in 2018.",
+        "logo_url": "https://example.com/khatabook_logo.png"
+    },
+    {
+        "company_name": "CureSkin",
+        "company_homepage_url": "https://cureskin.com/",
+        "career_page_url": "https://angel.co/company/cureskin/jobs",
+        "info": "CureSkin is an Indian healthcare startup founded by Ramakrishna R. and Sai Srinivas KRS in 2017.",
+        "logo_url": "https://example.com/cureskin_logo.png"
+    },
+    {
+        "company_name": "MilkBasket",
+        "company_homepage_url": "https://www.milkbasket.com/",
+        "career_page_url": "https://www.milkbasket.com/careers",
+        "info": "MilkBasket is an Indian online grocery delivery service founded by Anant Goel, Anurag Jain, Ashish Goel, and Yatish Talvadia in 2015.",
+        "logo_url": "https://example.com/milkbasket_logo.png"
+    },
+    {
+        "company_name": "Furlenco",
+        "company_homepage_url": "https://www.furlenco.com/",
+        "career_page_url": "https://www.furlenco.com/careers",
+        "info": "Furlenco is an Indian furniture rental company founded by Ajith Mohan Karimpana in 2012.",
+        "logo_url": "https://example.com/furlenco_logo.png"
+    },
+    {
+        "company_name": "Ezetap",
+        "company_homepage_url": "https://www.ezetap.com/",
+        "career_page_url": "https://www.ezetap.com/careers/",
+        "info": "Ezetap is an Indian financial technology company founded by Abhijit Bose, Bhaktha Keshavachar, and Sanjay Swamy in 2011.",
+        "logo_url": "https://example.com/ezetap_logo.png"
+    },
+    {
+        "company_name": "Udaan",
+        "company_homepage_url": "https://udaan.com/",
+        "career_page_url": "https://udaan.com/careers",
+        "info": "Udaan is an Indian B2B e-commerce company founded by Amod Malviya, Sujeet Kumar, and Vaibhav Gupta in 2016.",
+        "logo_url": "https://example.com/udaan_logo.png"
+    },
+    {
+        "company_name": "Toppr",
+        "company_homepage_url": "https://www.toppr.com/",
+        "career_page_url": "https://www.toppr.com/careers/",
+        "info": "Toppr is an Indian educational technology company founded by Zishaan Hayath and Hemanth Goteti in 2013.",
+        "logo_url": "https://example.com/toppr_logo.png"
+    },
+    {
+        "company_name": "Cleartax",
+        "company_homepage_url": "https://cleartax.in/",
+        "career_page_url": "https://cleartax.recruitee.com/",
+        "info": "ClearTax is an Indian fintech company founded by Archit Gupta, Srivatsan Chari, and Ankit Solanki in 2011.",
+        "logo_url": "https://example.com/cleartax_logo.png"
+    },
+    {
+        "company_name": "Shuttl",
+        "company_homepage_url": "https://www.shuttl.com/",
+        "career_page_url": "https://www.shuttl.com/careers",
+        "info": "Shuttl is an Indian bus aggregator and micro-mobility startup founded by Amit Singh and Deepanshu Malviya in 2015.",
+        "logo_url": "https://example.com/shuttl_logo.png"
+    },
+    {
+        "company_name": "Dream11",
+        "company_homepage_url": "https://www.dream11.com/",
+        "career_page_url": "https://careers.dream11.com/",
+        "info": "Dream11 is an Indian fantasy sports platform founded by Harsh Jain and Bhavit Sheth in 2008.",
+        "logo_url": "https://example.com/dream11_logo.png"
+    },
+    {
+        "company_name": "Urban Company (formerly UrbanClap)",
+        "company_homepage_url": "https://www.urbancompany.com/",
+        "career_page_url": "https://www.urbancompany.com/jobs",
+        "info": "Urban Company is an Indian home services marketplace founded by Abhiraj Bhal, Varun Khaitan, and Raghav Chandra in 2014.",
+        "logo_url": "https://example.com/urbancompany_logo.png"
+    },
+    {
+        "company_name": "Vedantu",
+        "company_homepage_url": "https://www.vedantu.com/",
+        "career_page_url": "https://www.vedantu.com/careers/",
+        "info": "Vedantu is an Indian interactive online tutoring platform founded by Vamsi Krishna, Saurabh Saxena, Pulkit Jain, and Anand Prakash in 2014.",
+        "logo_url": "https://example.com/vedantu_logo.png"
+    },
+    {
+        "company_name": "Licious",
+        "company_homepage_url": "https://www.licious.in/",
+        "career_page_url": "https://www.licious.in/careers",
+        "info": "Licious is an Indian meat and seafood company founded by Abhay Hanjura and Vivek Gupta in 2015.",
+        "logo_url": "https://example.com/licious_logo.png"
+    },
+    {
+        "company_name": "Ninjacart",
+        "company_homepage_url": "https://www.ninjacart.in/",
+        "career_page_url": "https://ninjacart.applytojob.com/",
+        "info": "Ninjacart is an Indian agri-tech startup founded by Thirukumaran Nagarajan, Kartheeswaran KK, Ashutosh Vikram, Sharath Loganathan, and Vasudevan Chinnathambi in 2015.",
+        "logo_url": "https://example.com/ninjacart_logo.png"
+    },
+    {
+        "company_name": "Meesho",
+        "company_homepage_url": "https://meesho.com/",
+        "career_page_url": "https://meesho.com/careers/",
+        "info": "Meesho is an Indian social commerce platform founded by Vidit Aatrey and Sanjeev Barnwal in 2015.",
+        "logo_url": "https://example.com/meesho_logo.png"
+    },
+    {
+        "company_name": "CarWale",
+        "company_homepage_url": "https://www.carwale.com/",
+        "career_page_url": "https://www.carwale.com/jobs/",
+        "info": "CarWale is an Indian automotive website founded by Mohit Dubey, Tufail Khan, and Arun Kumar in 2005.",
+        "logo_url": "https://example.com/carwale_logo.png"
+    },
+    {
+        "company_name": "Medlife",
+        "company_homepage_url": "https://www.medlife.com/",
+        "career_page_url": "https://careers.medlife.com/",
+        "info": "Medlife is an Indian online pharmacy founded by Prashant Singh and Tushar Kumar in 2014.",
+        "logo_url": "https://example.com/medlife_logo.png"
+    },
+    {
+        "company_name": "Zeta",
+        "company_homepage_url": "https://zeta.tech/",
+        "career_page_url": "https://zeta.tech/careers/",
+        "info": "Zeta is an Indian fintech startup founded by Bhavin Turakhia and Ramki Gaddipati in 2015.",
+        "logo_url": "https://example.com/zeta_logo.png"
+    },
+    {
+        "company_name": "NoBroker",
+        "company_homepage_url": "https://www.nobroker.in/",
+        "career_page_url": "https://nobroker.in/careers/",
+        "info": "NoBroker is an Indian real estate search portal founded by Amit Agarwal, Akhil Gupta, and Saurabh Garg in 2013.",
+        "logo_url": "https://example.com/nobroker_logo.png"
+    },
+    {
+        "company_name": "Vokal",
+        "company_homepage_url": "https://www.getvokal.com/",
+        "career_page_url": "https://www.getvokal.com/careers",
+        "info": "Vokal is an Indian knowledge-sharing platform founded by Aprameya Radhakrishna and Mayank Bidawatka in 2018.",
+        "logo_url": "https://example.com/vokal_logo.png"
+    },
+    {
+        "company_name": "Zenoti",
+        "company_homepage_url": "https://www.zenoti.com/",
+        "career_page_url": "https://www.zenoti.com/company/careers",
+        "info": "Zenoti is an Indian software company providing cloud-based services for the beauty and wellness industry founded by Sudheer Koneru in 2010.",
+        "logo_url": "https://example.com/zenoti_logo.png"
+    },
+    {
+        "company_name": "Urban Ladder",
+        "company_homepage_url": "https://www.urbanladder.com/",
+        "career_page_url": "https://www.urbanladder.com/careers",
+        "info": "Urban Ladder is an Indian online furniture and home decor company founded by Ashish Goel and Rajiv Srivatsa in 2012.",
+        "logo_url": "https://example.com/urbanladder_logo.png"
+    },
+    {
+        "company_name": "PharmEasy",
+        "company_homepage_url": "https://pharmeasy.in/",
+        "career_page_url": "https://pharmeasy.in/careers",
+        "info": "PharmEasy is an Indian online pharmacy and healthcare platform founded by Dharmil Sheth, Dhaval Shah, Mikhil Innani, and Hardik Dedhia in 2015.",
+        "logo_url": "https://example.com/pharmeasy_logo.png"
+    },
+    {
+        "company_name": "Dailyhunt",
+        "company_homepage_url": "https://www.dailyhunt.in/",
+        "career_page_url": "https://www.dailyhunt.in/careers",
+        "info": "Dailyhunt is an Indian news and local language content application founded by Virendra Gupta in 2009.",
+        "logo_url": "https://example.com/dailyhunt_logo.png"
+    },
+    {
+        "company_name": "CarDekho",
+        "company_homepage_url": "https://www.cardekho.com/",
+        "career_page_url": "https://www.cardekho.com/careers",
+        "info": "CarDekho is an Indian auto classifieds company founded by Amit Jain and Anurag Jain in 2008.",
+        "logo_url": "https://example.com/cardekho_logo.png"
+    },
+    {
+        "company_name": "CureFit",
+        "company_homepage_url": "https://www.cure.fit/",
+        "career_page_url": "https://careers.cure.fit/",
+        "info": "CureFit is an Indian health and fitness company founded by Mukesh Bansal and Ankit Nagori in 2016.",
+        "logo_url": "https://example.com/curefit_logo.png"
+    },
+    {
+        "company_name": "Rapido",
+        "company_homepage_url": "https://rapido.bike/",
+        "career_page_url": "https://rapido.bike/careers",
+        "info": "Rapido is an Indian bike taxi aggregator founded by Aravind Sanka, Pavan Guntupalli, and Rishikesh S R in 2015.",
+        "logo_url": "https://example.com/rapido_logo.png"
+    },
+    {
+        "company_name": "UpGrad",
+        "company_homepage_url": "https://www.upgrad.com/",
+        "career_page_url": "https://www.upgrad.com/careers/",
+        "info": "UpGrad is an Indian online higher education platform founded by Ronnie Screwvala, Mayank Kumar, Phalgun Kompalli, and Ravijot Chugh in 2015.",
+        "logo_url": "https://example.com/upgrad_logo.png"
+    },
+    {
+        "company_name": "GreyOrange",
+        "company_homepage_url": "https://www.greyorange.com/",
+        "career_page_url": "https://www.greyorange.com/careers/",
+        "info": "GreyOrange is an Indian multinational robotics company that designs, manufactures, and deploys advanced robotics systems for automation in warehouses, distribution and fulfillment centers, and supply chain.",
+        "logo_url": "https://example.com/greyorange_logo.png"
+    },
+    {
+        "company_name": "Innov8",
+        "company_homepage_url": "https://innov8.work/",
+        "career_page_url": "https://innov8.work/careers/",
+        "info": "Innov8 is an Indian coworking space provider founded by Ritesh Malik in 2015.",
+        "logo_url": "https://example.com/innov8_logo.png"
+    },
+    {
+        "company_name": "Vogo",
+        "company_homepage_url": "https://www.vogo.in/",
+        "career_page_url": "https://www.vogo.in/careers",
+        "info": "Vogo is an Indian scooter sharing platform founded by Anand Ayyadurai, Padmanabhan Balakrishnan, and Sanchit Mittal in 2015.",
+        "logo_url": "https://example.com/vogo_logo.png"
+    },
+    {
+        "company_name": "Lendingkart",
+        "company_homepage_url": "https://www.lendingkart.com/",
+        "career_page_url": "https://www.lendingkart.com/careers",
+        "info": "Lendingkart is an Indian fintech startup that offers working capital loans to small and medium enterprises (SMEs) founded by Harshvardhan Lunia and Mukul Sachan in 2014.",
+        "logo_url": "https://example.com/lendingkart_logo.png"
+    },
+    {
+        "company_name": "Teachmint",
+        "company_homepage_url": "https://www.teachmint.com/",
+        "career_page_url": "https://www.teachmint.com/careers",
+        "info": "Teachmint is an Indian edtech startup providing online teaching platforms for educators founded by Anshuman Kumar, Mihir Gupta, Payoj Jain, and Vibhu Bhushan in 2020.",
+        "logo_url": "https://example.com/teachmint_logo.png"
+    },
+    {
+        "company_name": "Dunzo",
+        "company_homepage_url": "https://www.dunzo.com/",
+        "career_page_url": "https://www.dunzo.com/careers",
+        "info": "Dunzo is an Indian company that provides delivery services founded by Kabeer Biswas, Ankur Aggarwal, Dalvir Suri, and Mukund Jha in 2014.",
+        "logo_url": "https://example.com/dunzo_logo.png"
+    }
+]
