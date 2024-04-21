@@ -4,7 +4,8 @@
   "description": "website to search career page",
   "main": "server.js",
   "scripts": {
-    "test": "npm test"
+    "start": "parcel serve src/index.html --public-url / --dist-dir dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/krshubham-1514/career-pages/issues"
   },
-  "homepage": "https://github.com/krshubham-1514/career-pages#readme"
+  "homepage": "https://github.com/krshubham-1514/career-pages#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.12.0",
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.3"
+  }
 }
