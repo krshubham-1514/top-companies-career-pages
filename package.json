@@ -2,7 +2,7 @@
   "name": "career-pages",
   "version": "1.0.0",
   "description": "website to search career page",
-  "main": "server.js",
+  "main": "src/js/main.js",
   "scripts": {
     "start": "parcel serve src/index.html --public-url / --dist-dir dist",
     "test": "echo \"Error: no test specified\" && exit 1"
