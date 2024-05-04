@@ -98,7 +98,7 @@ Here are some of the leading IT companies worldwide:
 - **BYJU’S**: [Career Page](https://byjus.com/careers/)
 - **ByteDance**: [Career Page](https://bytedance.com/careers)
 - **Byteridge**: [Career Page](https://www.byteridge.com/careers)
-  
+
 ### C
 
 - **Cadence**: [Career Page](https://www.cadence.com/content/cadence-www/global/en_US/home/company/careers.html)
@@ -125,11 +125,11 @@ Here are some of the leading IT companies worldwide:
 - **Clarion Technologies**: [Career Page](https://www.clariontech.com/careers)
 - **Clavis Technologies**: [Career Page](https://www.clavis.co.in/career.html)
 - **ClearTax**: [Career Page](https://cleartax.in/s/careers)
-- **ClearTrip**: [Career Page](https://www.cleartrip.com/careers)
+- **ClearTrip**: [Career Page](https://careers.cleartrip.com/#!/)
 - **Cloudera**: [Career Page](https://www.cloudera.com/about/careers.html)
 - **Code Nation**: [Career Page](https://codenation.org/careers)
 - **Codenation innovation labs**: [Career Page](https://www.codenation.org/careers)
-- **CodingNinjas**: [Career Page](https://www.codingninjas.com/careers)
+- **CodingNinjas**: [Career Page](https://codingninjas.darwinbox.in/ms/candidate/careers)
 - **Cognizant**: [Career Page](https://careers.cognizant.com/)
 - **Cognologix**: [Career Page](https://www.cognologix.com/careers/)
 - **Cohesity**: [Career Page](https://www.cohesity.com/careers/)
@@ -143,7 +143,7 @@ Here are some of the leading IT companies worldwide:
 - **Copucom**: [Career Page](https://www.copucom.com/careers)
 - **COSGrid**: [Career Page](https://www.cosgrid.com/careers/)
 - **Cradlepoint**: [Career Page](https://cradlepoint.com/about-us/careers)
-- **CRED**: [Career Page](https://cred.club/careers)
+- **CRED**: [Career Page](https://careers.cred.club/openings)
 - **Credit Suisse**: [Career Page](https://www.credit-suisse.com/about-us/en/careers.html)
 - **Crestron**: [Career Page](https://www.crestron.com/careers)
 - **Crio.Do**: [Career Page](https://crio.do/careers)
@@ -155,7 +155,7 @@ Here are some of the leading IT companies worldwide:
 - **Cvent**: [Career Page](https://www.cvent.com/en/careers)
 - **Cybage**: [Career Page](https://www.cybage.com/careers)
 - **Cygnet**: [Career Page](https://www.cygnet-infotech.com/careers)
-  
+
 ### D
 
 - **Daffodil Software**: [Career Page](https://www.daffodilsw.com/careers/)
@@ -190,7 +190,7 @@ Here are some of the leading IT companies worldwide:
 - **Duck Creek Technologies**: [Career Page](https://www.duckcreek.com/careers)
 - **Dukaan**: [Career Page](https://dukaanapp.com/careers)
 - **Dunzo**: [Career Page](https://www.dunzo.com/careers)
-  
+
 ### E
 
 - **EA Games**: [Career Page](https://www.ea.com/careers)
@@ -207,7 +207,7 @@ Here are some of the leading IT companies worldwide:
 - **Experian**: [Career Page](https://www.experian.com/careers/)
 - **EY**: [Career Page](https://www.ey.com/en_us/careers)
 - **EyeROV**: [Career Page](https://eyerov.com/careers/)
-  
+
 ### F
 
 - **Facebook**: [Career Page](https://www.facebook.com/careers/)
@@ -233,7 +233,7 @@ Here are some of the leading IT companies worldwide:
 - **Furlenco**: [Career Page](https://www.furlenco.com/careers/)
 - **Fyle**: [Career Page](https://www.fylehq.com/careers)
 - **Fynd**: [Career Page](https://www.gofynd.com/careers)
-  
+
 ### G
 
 - **Gartner**: [Career Page](https://www.gartner.com/en/careers)
@@ -264,7 +264,7 @@ Here are some of the leading IT companies worldwide:
 - **Groupon**: [Career Page](https://jobs.groupon.com/en-US/)
 - **Groww**: [Career Page](https://groww.in/careers)
 - **Guild Education**: [Career Page](https://www.guildeducation.com/careers/)
-  
+
 ### H
 
 - **Hackerearth**: [Career Page](https://www.hackerearth.com/careers/)
@@ -288,7 +288,7 @@ Here are some of the leading IT companies worldwide:
 - **HubSpot**: [Career Page](https://www.hubspot.com/careers)
 - **Hyperlink InfoSystem**: [Career Page](https://www.hyperlinkinfosystem.com/career.html)
 - **Hyundai**: [Career Page](https://www.hyundai.com/worldwide/en/company/careers)
-  
+
 ### I
 
 - **Iasys**: [Career Page](https://iasys.co.in/careers/)
@@ -330,7 +330,7 @@ Here are some of the leading IT companies worldwide:
 - **IvyNext**: [Career Page](https://www.ivynext.com/careers/)
 - **IXL**: [Career Page](https://www.ixl.com/company/careers)
 - **IXP Manager**: [Career Page](https://ixpmanager.org/careers/)
-  
+
 ### J
 
 - **J.P. Morgan Chase**: [Career Page](https://www.jpmorganchase.com/careers)
@@ -340,7 +340,7 @@ Here are some of the leading IT companies worldwide:
 - **JP Morgan**: [Career Page](https://careers.jpmorgan.com/us/en/home)
 - **Juniper Networks**: [Career Page](https://www.juniper.net/us/en/company/careers/)
 - **Jupiter Capital**: [Career Page](https://jupitercapital.in/careers/)
-  
+
 ### K
 
 - **KPMG**: [Career Page](https://home.kpmg/xx/en/home/careers.html)
@@ -365,7 +365,7 @@ Here are some of the leading IT companies worldwide:
 - **Kronos**: [Career Page](https://www.kronos.com/about-us/careers)
 - **KTM**: [Career Page](https://www.ktm.com/en-in/careers/)
 - **Kumon India Education**: [Career Page](https://kumon.co.in/)
-  
+
 ### L
 
 - **L & T Infotech**: [Career Page](https://www.lntinfotech.com/careers/)
@@ -393,7 +393,7 @@ Here are some of the leading IT companies worldwide:
 - **Lyca Digital**: [Career Page](https://lycadigital.com/careers)
 - **Lyft**: [Career Page](https://www.lyft.com/careers)
 - **Lymbyc**: [Career Page](https://lymbyc.com/careers/)
-  
+
 ### M
 
 - **Maersk**: [Career Page](https://www.maersk.com/career)
@@ -429,7 +429,7 @@ Here are some of the leading IT companies worldwide:
 - **MuleSoft**: [Career Page](https://www.mulesoft.com/careers)
 - **MulticoreWare**: [Career Page](https://www.multicorewareinc.com/careers/)
 - **Myntra**: [Career Page](https://www.myntra.com/careers)
-  
+
 ### N
 
 - **Nagarro**: [Career Page](https://www.nagarro.com/en/careers)
@@ -464,7 +464,7 @@ Here are some of the leading IT companies worldwide:
 - **Nvidia**: [Career Page](https://www.nvidia.com/en-us/about-nvidia/careers/)
 - **Nxtgen**: [Career Page](https://www.nxtgen.com/careers/)
 - **NXP Semiconductors**: [Career Page](https://www.nxp.com/company/about-nxp/careers-at-nxp:CARERS-AT-NXP)
-  
+
 ### O
 
 - **Ola Cabs**: [Career Page](https://www.olacabs.com/careers)
@@ -479,7 +479,7 @@ Here are some of the leading IT companies worldwide:
 - **Orient Electric**: [Career Page](https://www.orientelectric.com/careers)
 - **OYO**: [Career Page](https://www.oyorooms.com/careers)
 - **Ozone.ai**: [Career Page](https://ozone.ai/careers/)
-  
+
 ### P
 
 - **Palo Alto Networks**: [Career Page](https://www.paloaltonetworks.com/company/careers)
@@ -522,7 +522,7 @@ Here are some of the leading IT companies worldwide:
 - **PwC**: [Career Page](https://www.pwc.com/gx/en/careers.html)
 - **Pyxis**: [Career Page](https://www.pyxisportal.com/careers/)
 - **Pyxle**: [Career Page](https://www.pyxle.net/careers/)
-  
+
 ### Q
 
 - **QikPod**: [Career Page](https://qikpod.com/careers/)
@@ -535,7 +535,7 @@ Here are some of the leading IT companies worldwide:
 - **Quora**: [Career Page](https://www.quora.com/careers)
 - **Quovantis**: [Career Page](https://www.quovantis.com/careers/)
 - **Qwikcilver**: [Career Page](https://www.qwikcilver.com/careers/)
-  
+
 ### R
 
 - **Razorpay**: [Career Page](https://razorpay.com/careers/)
@@ -563,7 +563,7 @@ Here are some of the leading IT companies worldwide:
 - **Rupifi**: [Career Page](https://www.rupifi.com/careers)
 - **Rupeewiz**: [Career Page](https://www.rupeewiz.com/careers/)
 - **Rustagi Polymers**: [Career Page](http://www.rustagipolymers.com/career.html)
-  
+
 ### S
 
 - **S&P Global**: [Career Page](https://careers.spglobal.com/)
@@ -700,7 +700,7 @@ Here are some of the leading IT companies worldwide:
 - **Systweak Software**: [Career Page](https://www.systweak.com/careers)
 - **Systweak Software**: [Career Page](https://www.systweak.com/careers)
 - **Syz**: [Career Page](https://www.syzgroup.com/careers)
-  
+
 ### T
 
 - **Tact.ai**: [Career Page](https://tact.ai/careers/)
@@ -770,7 +770,7 @@ Here are some of the leading IT companies worldwide:
 - **Tyfone**: [Career Page](https://www.tyfone.com/careers/)
 - **Tyroo**: [Career Page](https://tyroo.com/careers/)
 - **Tysen Technologies**: [Career Page](https://www.tysentech.com/careers/)
-  
+
 ### U
 
 - **Uber**: [Career Page](https://www.uber.com/in/en/careers/)
@@ -798,7 +798,7 @@ Here are some of the leading IT companies worldwide:
 - **Utkarsh Small Finance Bank**: [Career Page](https://www.utkarsh.bank/careers/)
 - **Utopia Global**: [Career Page](https://www.utopiainc.com/careers/)
 - **Uxeria**: [Career Page](https://uxeria.com/careers/)
-  
+
 ### V
 
 - **Vakilsearch**: [Career Page](https://vakilsearch.com/careers/)
@@ -845,7 +845,7 @@ Here are some of the leading IT companies worldwide:
 - **Vogue Institute of Art and Design**: [Career Page](https://www.voguefashioninstitute.com/careers/)
 - **Volvo**: [Career Page](https://www.volvogroup.in/en-in/careers/)
 - **Vymo**: [Career Page](https://www.getvymo.com/careers/)
-  
+
 ### W
 
 - **Wadhwani AI**: [Career Page](https://wadhwaniai.org/careers/)
@@ -879,7 +879,7 @@ Here are some of the leading IT companies worldwide:
 - **WOTU**: [Career Page](https://wotu.co/careers/)
 - **WuXi NextCODE**: [Career Page](https://www.wuxinextcode.com/careers/)
 - **Wyzebulb**: [Career Page](https://www.wyzebulb.com/careers/)
-  
+
 ### X
 
 - **Xactly Corporation**: [Career Page](https://www.xactlycorp.com/company/careers/)
@@ -896,7 +896,7 @@ Here are some of the leading IT companies worldwide:
 - **Xtracare IT Solutions**: [Career Page](https://www.xtracareit.com/careers/)
 - **Xpressbees**: [Career Page](https://www.xpressbees.com/careers/)
 - **Xtracare IT Solutions**: [Career Page](https://www.xtracareit.com/careers/)
-  
+
 ### Y
 
 - **Yatra**: [Career Page](https://www.yatra.com/careers)
