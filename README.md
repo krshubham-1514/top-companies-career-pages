@@ -899,17 +899,12 @@ Here are some of the leading IT companies worldwide:
 
 ### Y
 
-- **Yatra**: [Career Page](https://www.yatra.com/careers)
-- **Yellow Messenger**: [Career Page](https://www.yellowmessenger.com/careers/)
-- **Yodlee**: [Career Page](https://www.yodlee.com/careers/)
+- **Yatra**: [Career Page](https://www.yatra.com/career/job-portal)
+- **Yellow ai**: [Career Page](https://old.yellow.ai/career/)
+- **Yodlee**: [Career Page](https://www.yodlee.com/company/careers)
 - **Yoodle**: [Career Page](https://yoodle.com/careers/)
-- **Yojak**: [Career Page](https://yojak.io/careers/)
-- **Yotta Infrastructure**: [Career Page](https://yotta.com/careers/)
-- **Yotta Infrastructure**: [Career Page](https://yotta.com/careers/)
-- **Yulu**: [Career Page](https://www.yulu.bike/careers)
 - **Yulu**: [Career Page](https://www.yulu.bike/careers)
 - **Yum! Brands**: [Career Page](https://www.yum.com/wps/portal/yumbrands/Yumbrands/company/work-with-us)
-- **Yunus Social Business**: [Career Page](https://www.yunussb.com/careers/)
 
 ### Z
 
