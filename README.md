@@ -884,18 +884,12 @@ Here are some of the leading IT companies worldwide:
 
 - **Xactly Corporation**: [Career Page](https://www.xactlycorp.com/company/careers/)
 - **Xebia**: [Career Page](https://www.xebia.com/careers/)
-- **Xiaomi**: [Career Page](https://www.mi.com/in/careers/)
-- **Xilinx**: [Career Page](https://www.xilinx.com/about/careers.html)
-- **XING**: [Career Page](https://corporate.xing.com/en/career/)
+- **Xiaomi**: [Career Page](https://in.event.mi.com/in/careers)
 - **Xoxoday**: [Career Page](https://www.xoxoday.com/careers)
 - **XP Power**: [Career Page](https://www.xppower.com/careers/)
 - **Xpheno**: [Career Page](https://www.xpheno.com/careers/)
-- **Xpressbees**: [Career Page](https://www.xpressbees.com/careers/)
-- **Xseed Education**: [Career Page](https://xseededucation.com/careers/)
-- **Xseed Education**: [Career Page](https://xseededucation.com/careers/)
-- **Xtracare IT Solutions**: [Career Page](https://www.xtracareit.com/careers/)
-- **Xpressbees**: [Career Page](https://www.xpressbees.com/careers/)
-- **Xtracare IT Solutions**: [Career Page](https://www.xtracareit.com/careers/)
+- **Xpressbees**: [Career Page](https://www.xpressbees.com/Career)
+- **Xseed Education**: [Career Page](https://xseededucation.com/careers-at-xseed/)
 
 ### Y
 
