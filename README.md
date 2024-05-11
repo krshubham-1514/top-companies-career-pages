@@ -334,12 +334,9 @@ Here are some of the leading IT companies worldwide:
 ### J
 
 - **J.P. Morgan Chase**: [Career Page](https://www.jpmorganchase.com/careers)
-- **Jana Small Finance Bank**: [Career Page](https://www.janabank.com/careers)
-- **Jindal**: [Career Page](https://www.jindal.com/careers/)
-- **John Deere**: [Career Page](https://www.deere.com/en/our-company/careers/)
+- **John Deere**: [Career Page](https://about.deere.com/en-us/careers/)
 - **JP Morgan**: [Career Page](https://careers.jpmorgan.com/us/en/home)
 - **Juniper Networks**: [Career Page](https://www.juniper.net/us/en/company/careers/)
-- **Jupiter Capital**: [Career Page](https://jupitercapital.in/careers/)
 
 ### K
 
