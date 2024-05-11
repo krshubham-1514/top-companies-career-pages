@@ -468,17 +468,15 @@ Here are some of the leading IT companies worldwide:
 ### O
 
 - **Ola Cabs**: [Career Page](https://www.olacabs.com/careers)
-- **Omnicell**: [Career Page](https://www.omnicell.com/about-us/careers)
-- **One Click Link**: [Career Page](https://oneclick.link/careers/)
+- **Omnicell**: [Career Page](https://www.omnicell.com/careers/)
 - **OnePlus**: [Career Page](https://www.oneplus.in/careers)
-- **Onmobile**: [Career Page](https://www.onmobile.com/careers)
-- **OpenText**: [Career Page](https://www.opentext.com/about/careers)
+- **Onmobile**: [Career Page](https://www.onmobile.com/career#onmobile-current-openings)
+- **OpenText**: [Career Page](https://careers.opentext.com/)
 - **Optum**: [Career Page](https://www.optum.com/careers.html)
 - **Oracle**: [Career Page](https://www.oracle.com/corporate/careers/)
 - **Orange**: [Career Page](https://www.orange-business.com/en/about-us/careers)
-- **Orient Electric**: [Career Page](https://www.orientelectric.com/careers)
-- **OYO**: [Career Page](https://www.oyorooms.com/careers)
-- **Ozone.ai**: [Career Page](https://ozone.ai/careers/)
+- **Orient Electric**: [Career Page](https://www.orientelectric.com/careers/current_opening)
+- **OYO**: [Career Page](https://www.linkedin.com/company/oyo-rooms/jobs/)
 
 ### P
 
