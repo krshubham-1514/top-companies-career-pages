@@ -1,4 +1,4 @@
-# List of IT Companies Worldwide
+# List of Companies Worldwide
 
 This is a list of companies worldwide along with their career page URLs.
 
