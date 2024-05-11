@@ -194,19 +194,12 @@ Here are some of the leading IT companies worldwide:
 ### E
 
 - **EA Games**: [Career Page](https://www.ea.com/careers)
-- **EBay**: [Career Page](https://careers.ebayinc.com/join-our-team/start-your-search/find-jobs-by-location/)
-- **Ecolousys Technologies**: [Career Page](https://ecolousys.com/careers/)
-- **Ecotech**: [Career Page](https://www.ecotech.com/careers)
-- **Enfussion**: [Career Page](https://enfissionpower.com/careers/)
-- **Envestnet Yodlee**: [Career Page](https://www.yodlee.com/careers)
+- **EBay**: [Career Page](https://jobs.ebayinc.com/us/en)
 - **Ericsson**: [Career Page](https://www.ericsson.com/en/careers)
 - **Eurofins**: [Career Page](https://www.eurofins.com/careers/)
-- **Exceptionaire**: [Career Page](https://www.exceptionaire.com/career/)
-- **EXL Healthcare**: [Career Page](https://www.exlhealthcare.com/careers)
-- **Expedia**: [Career Page](https://lifeatexpedia.com/careers/)
+- **Expedia**: [Career Page](https://careers.expediagroup.com/jobs/)
 - **Experian**: [Career Page](https://www.experian.com/careers/)
 - **EY**: [Career Page](https://www.ey.com/en_us/careers)
-- **EyeROV**: [Career Page](https://eyerov.com/careers/)
 
 ### F
 
