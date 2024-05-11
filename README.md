@@ -1,10 +1,6 @@
 # List of IT Companies Worldwide
 
-This is a list of IT companies worldwide along with their career page URLs.
-
-## Companies
-
-Here are some of the leading IT companies worldwide:
+This is a list of companies worldwide along with their career page URLs.
 
 ### A
 
