@@ -45,7 +45,6 @@ Here are some of the leading IT companies worldwide:
 - **Ardentisys**: [Career Page](https://www.ardentisys.com/careers/)
 - **Arista Networks**: [Career Page](https://www.arista.com/en/careers)
 - **Ark Info**: [Career Page](https://www.arkinfo.in/careers)
-- **Armaco**: [Career Page](https://www.armacoglobal.com/careers)
 - **Aryaka networks**: [Career Page](https://www.aryaka.com/careers/)
 - **Asteria Aerospace Ltd**: [Career Page](https://www.asteria.co.in/careers)
 - **Athena Health**: [Career Page](https://www.athenahealth.com/careers)
