@@ -4,7 +4,7 @@ This is a list of companies worldwide along with their career page URLs.
 
 ### A
 
-- **1mg**: [Career Page](https://www.1mg.com/jobs)
+- **1mg**: ![Career Page](https://www.1mg.com/jobs)
 - **314e Corporation**: [Career Page](https://www.314e.com/company/job-openings/)
 - **3i Infotech**: [Career Page](https://www.3i-infotech.com/careers/)
 - **[24]7.ai**: [Career Page](https://www.247.ai/company/careers)
