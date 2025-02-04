@@ -385,6 +385,7 @@ This is a list of companies worldwide along with their career page URLs.
 - **Petal**: [Career Page](https://www.petalcard.com/careers)
 - **Petco**: [Career Page](https://careers.petco.com/)
 - **Philips**: [Career Page](https://www.philips.co.in/a-w/careers/homepage.html)
+- **Pi Techniques**: [Career Page](https://www.pitechniques.com/careers.htm)
 - **PhonePe**: [Career Page](https://www.phonepe.com/careers/)
 - **Pidilite Industries**: [Career Page](https://www.pidilite.com/careers/)
 - **Pine Labs**: [Career Page](https://www.pinelabs.com/careers)
