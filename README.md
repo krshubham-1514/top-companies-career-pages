@@ -96,6 +96,7 @@ Here are some of the leading IT companies worldwide:
 - **Capital Numbers**: [Career Page](https://www.capitalnumbers.com/careers.php)
 - **CarDekho**: [Career Page](https://careers.cardekho.com/)
 - **CarWale**: [Career Page](https://www.carwale.com/career/)
+- **Cargill**: [Career Page](https://careers.cargill.com/en)
 - **CashFree**: [Career Page](https://www.cashfree.com/careers)
 - **Celigo**: [Career Page](https://www.celigo.com/careers/)
 - **Cerner**: [Career Page](https://www.cerner.com/careers)
