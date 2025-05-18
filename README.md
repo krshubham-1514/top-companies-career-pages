@@ -108,6 +108,7 @@ Here are some of the leading IT companies worldwide:
 - **Capita**: [Career Page](https://www.capita.com/careers)
 - **Capital Numbers**: [Career Page](https://www.capitalnumbers.com/careers)
 - **CarDekho**: [Career Page](https://www.cardekho.com/careers)
+- **Cargill**: [Career Page](https://careers.cargill.com/en)
 - **CarWale**: [Career Page](https://www.carwale.com/careers/)
 - **CasaOne**: [Career Page](https://www.casaone.com/careers)
 - **CashFree**: [Career Page](https://www.cashfree.com/careers)
