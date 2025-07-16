@@ -7,6 +7,7 @@ This is a comprehensive list of companies worldwide along with their career page
 - **314e Corporation**: [Career Page](https://www.314e.com/company/job-openings/)
 - **3i Infotech**: [Career Page](https://www.3i-infotech.com/careers/)
 - **[24]7.ai**: [Career Page](https://www.247.ai/company/careers)
+- **AbhiBus**: [Career Page](https://www.abhibus.com/careers/)
 - **Ably**: [Career Page](https://ably.com/careers)
 - **Acaira**: [Career Page](https://www.acaira.com/career)
 - **Accenture**: [Career Page](https://www.accenture.com/us-en/careers)
